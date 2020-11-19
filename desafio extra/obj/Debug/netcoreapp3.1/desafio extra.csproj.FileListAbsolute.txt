@@ -1,0 +1,13 @@
+C:\Users\winicius\Documents\atividades\desafio extra\bin\Debug\netcoreapp3.1\desafio extra.exe
+C:\Users\winicius\Documents\atividades\desafio extra\bin\Debug\netcoreapp3.1\desafio extra.deps.json
+C:\Users\winicius\Documents\atividades\desafio extra\bin\Debug\netcoreapp3.1\desafio extra.runtimeconfig.json
+C:\Users\winicius\Documents\atividades\desafio extra\bin\Debug\netcoreapp3.1\desafio extra.runtimeconfig.dev.json
+C:\Users\winicius\Documents\atividades\desafio extra\bin\Debug\netcoreapp3.1\desafio extra.dll
+C:\Users\winicius\Documents\atividades\desafio extra\bin\Debug\netcoreapp3.1\desafio extra.pdb
+C:\Users\winicius\Documents\atividades\desafio extra\obj\Debug\netcoreapp3.1\desafio extra.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\atividades\desafio extra\obj\Debug\netcoreapp3.1\desafio extra.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\atividades\desafio extra\obj\Debug\netcoreapp3.1\desafio extra.AssemblyInfo.cs
+C:\Users\winicius\Documents\atividades\desafio extra\obj\Debug\netcoreapp3.1\desafio extra.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\atividades\desafio extra\obj\Debug\netcoreapp3.1\desafio extra.dll
+C:\Users\winicius\Documents\atividades\desafio extra\obj\Debug\netcoreapp3.1\desafio extra.pdb
+C:\Users\winicius\Documents\atividades\desafio extra\obj\Debug\netcoreapp3.1\desafio extra.genruntimeconfig.cache
